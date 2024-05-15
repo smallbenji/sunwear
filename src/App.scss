@@ -1,0 +1,49 @@
+#root {
+	display: flex;
+	flex-direction: column;
+	min-width: 100vw;
+}
+
+.Produkter {
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+
+	h2 {
+		margin: 0px;
+		margin-bottom: 0px;
+		padding: 0px;
+	}
+	.productCarousel {
+		border: solid 1px black;
+		border-radius: 5px;
+		padding: 10px;
+		overflow-x: scroll;
+		display: flex;
+		max-width: 90vw;
+
+		.product {
+			display: flex;
+			flex-direction: column;
+			margin: 10px;
+
+			padding: 1rem;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			width: 400px;
+			min-width: 200px;
+			text-align: left;
+
+			&:hover {
+				border-color: pink;
+			}
+
+			img {
+				width: 100%;
+				border-radius: 5px;
+				aspect-ratio: 1/1;
+				object-fit: cover;
+			}
+		}
+	}
+}

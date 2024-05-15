@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Wet Suit",
+		"price": 99.99,
+		"img": "https://ae01.alicdn.com/kf/HTB1PhBfXIfrK1RjSszcq6xGGFXa7/Men-s-5mm-Black-Wetsuit-for-Scuba-Diving-Back-Zip-Fullsuit-Jumpsuit-Thermal-Wet-suit.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Jet Skies",
+		"price": 299.99,
+		"img": "https://blog.arpegediamonds.com/hs-fs/hubfs/2020_Ultra%20310LX_BK1_ACT%20(2).001.jpg?width=1500&name=2020_Ultra%20310LX_BK1_ACT%20(2).001.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Swim Goggles",
+		"price": 19.99,
+		"img": "https://i5.walmartimages.com/asr/3fe44f44-1d3c-433a-8f10-4ed31d4b0643_1.bbc09e0d2cc7956da7d76a91371b5398.jpeg"
+	},
+	{
+		"id": 4,
+		"name": "Beach Towel",
+		"price": 29.99,
+		"img": "https://www.icentralcoast.com/images/dock-and-bay-microfiber-towel-2.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Flip Flops",
+		"price": 14.99,
+		"img": "https://bayareafashionista.com/wp-content/uploads/2014/11/flopz-flip-flops.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Sunscreen",
+		"price": 9.99,
+		"img": "https://shinagawa.ph/wp-content/uploads/2018/04/Webp.net-resizeimage-2.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Swim Trunks",
+		"price": 39.99,
+		"img": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/utmkostvq3bz9aizcsrh/linen-racer-mens-5-swim-trunks-lHCjSt.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Beach Umbrella",
+		"price": 49.99,
+		"img": "https://cdn.shopify.com/s/files/1/2502/7378/products/3b07681f-cece-40c3-b915-2193138c7fd2_1400x.jpg?v=1542451589"
+	},
+	{
+		"id": 9,
+		"name": "Snorkel Set",
+		"price": 79.99,
+		"img": "https://i5.walmartimages.com/asr/acba138f-242a-4df8-8a28-1236e952f969.2d6e6e71894486a6eb78f49ab3eef446.jpeg"
+	},
+	{
+		"id": 10,
+		"name": "Swim Cap",
+		"price": 9.99,
+		"img": "https://images-na.ssl-images-amazon.com/images/I/71InKuEgQWL.jpg"
+	}
+]
